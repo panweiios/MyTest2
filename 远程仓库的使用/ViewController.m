@@ -19,6 +19,8 @@
     
     
     NSLog(@"helloworld");
+    
+    NSLog(@"oc");
 }
 
 - (void)didReceiveMemoryWarning {
